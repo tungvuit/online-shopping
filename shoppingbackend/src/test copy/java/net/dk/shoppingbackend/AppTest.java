@@ -2,7 +2,7 @@ package net.dk.shoppingbackend;
 
 import static org.junit.Assert.assertTrue;
 v dfdf
-import org.junit.Test;
+import org.junit.Test;ffdgdfgdf
 
 /**
  * Unit test for simple App.
