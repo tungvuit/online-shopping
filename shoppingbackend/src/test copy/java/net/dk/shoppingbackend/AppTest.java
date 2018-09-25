@@ -6,6 +6,9 @@ import org.junit.Test;ffdgdfgdf
 
 change to master
 
+
+AKAI SHINZI CHANGE 
+
 /**vdsvdfv
  * Unit test for simple App.
  */
