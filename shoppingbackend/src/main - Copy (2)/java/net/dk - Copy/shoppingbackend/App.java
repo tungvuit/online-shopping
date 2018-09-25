@@ -2,7 +2,11 @@ package net.dk.shoppingbackend;
 
 /**
  * Hello world!
+<<<<<<< HEAD
  *\\\dsfsdf  avfsvlkdjlfk
+=======
+ *\\\dsfsdf
+>>>>>>> akai
  */
 public class App 
 {
